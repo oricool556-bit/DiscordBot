@@ -1,0 +1,50 @@
+{
+  "spine_version": "4.1.24",
+  "directions": {
+    "F": {
+      "direction_number": 1,
+      "direction_enum": "Down",
+      "skeleton": "F.skel",
+      "atlas": "F.atlas",
+      "texture": "F.png",
+      "atlas_scale": "0.2",
+      "page_size": "1024,128"
+    },
+    "FS": {
+      "direction_number": 2,
+      "direction_enum": "RightDown",
+      "skeleton": "FS.skel",
+      "atlas": "FS.atlas",
+      "texture": "FS.png",
+      "atlas_scale": "0.2",
+      "page_size": "512,128"
+    },
+    "S": {
+      "direction_number": 3,
+      "direction_enum": "Right",
+      "skeleton": "S.skel",
+      "atlas": "S.atlas",
+      "texture": "S.png",
+      "atlas_scale": "0.2",
+      "page_size": "256,128"
+    },
+    "B": {
+      "direction_number": 4,
+      "direction_enum": "Up",
+      "skeleton": "B.skel",
+      "atlas": "B.atlas",
+      "texture": "B.png",
+      "atlas_scale": "0.2",
+      "page_size": "256,128"
+    },
+    "BS": {
+      "direction_number": 5,
+      "direction_enum": "RightUp",
+      "skeleton": "BS.skel",
+      "atlas": "BS.atlas",
+      "texture": "BS.png",
+      "atlas_scale": "0.2",
+      "page_size": "512,128"
+    }
+  }
+}
